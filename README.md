@@ -1,2 +1,2 @@
 # kube-spec
-Kube spec for test cluster
+The base specs for a kube cluster
